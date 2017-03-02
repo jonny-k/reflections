@@ -1,0 +1,6 @@
+q: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+The diff report showed the changes made in the two versions of the file.
+The highlighted differences help me to how a bug was introduced in the later version.
+Most changes were fine - they were just code documentation.
+However, one of the changes was to an conditional statement where the wrong variable name was used. This was the bug!
